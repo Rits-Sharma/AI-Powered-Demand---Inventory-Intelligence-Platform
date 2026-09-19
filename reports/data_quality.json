@@ -1,0 +1,29 @@
+{
+  "sales_rows": 36550,
+  "sales_skus": 50,
+  "sales_date_min": "2024-01-01",
+  "sales_date_max": "2025-12-31",
+  "sku_rows": 50,
+  "calendar_rows": 731,
+  "inventory_rows": 4800,
+  "inventory_unique_skus": 200,
+  "sales_skus_missing_in_master": 0,
+  "sales_rows_with_inventory": 36550,
+  "missing_values_top": {
+    "holiday": 36150,
+    "sku_id": 0,
+    "date": 0,
+    "revenue": 0,
+    "unit_price": 0,
+    "promotion": 0,
+    "units_sold": 0,
+    "year": 0,
+    "month": 0,
+    "week": 0,
+    "quarter": 0,
+    "day_of_week": 0,
+    "is_weekend": 0,
+    "season": 0,
+    "is_holiday": 0
+  }
+}

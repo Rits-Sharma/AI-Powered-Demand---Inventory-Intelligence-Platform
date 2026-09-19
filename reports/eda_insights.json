@@ -1,0 +1,43 @@
+{
+  "top_category_by_revenue": "Home Decor",
+  "bottom_category_by_revenue": "Lighting",
+  "highest_average_demand_season": "Spring",
+  "lowest_average_demand_season": "Autumn",
+  "promotion_uplift_pct": 38.12,
+  "top_10_skus_by_revenue": {
+    "SKU026": 180885293.9,
+    "SKU035": 169161896.78,
+    "SKU012": 167396247.79,
+    "SKU042": 152847759.28,
+    "SKU027": 150888602.2,
+    "SKU045": 142880229.36,
+    "SKU043": 142346152.52,
+    "SKU029": 134237448.5,
+    "SKU031": 119591275.53,
+    "SKU008": 117560492.16
+  },
+  "bottom_10_skus_by_revenue": {
+    "SKU015": 18599087.28,
+    "SKU009": 18297848.7,
+    "SKU024": 16901552.85,
+    "SKU039": 16373585.0,
+    "SKU023": 15343294.2,
+    "SKU028": 14288253.09,
+    "SKU048": 8518721.25,
+    "SKU010": 8267375.06,
+    "SKU050": 4004900.64,
+    "SKU011": 2818336.56
+  },
+  "most_volatile_skus": {
+    "SKU011": 0.651,
+    "SKU025": 0.628,
+    "SKU039": 0.581,
+    "SKU015": 0.536,
+    "SKU004": 0.511,
+    "SKU036": 0.487,
+    "SKU003": 0.479,
+    "SKU030": 0.477,
+    "SKU028": 0.453,
+    "SKU050": 0.452
+  }
+}
